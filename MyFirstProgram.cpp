@@ -18,7 +18,7 @@ int main()
    area = length * width;
    
    cout << "Length = " << length << endl;
-   cout << "Widht = " << width << endl;
+   cout << "Width = " << width << endl;
    cout << "Perimeter = " << perimeter << endl;
    cout << "Area =" << area << endl;
    
